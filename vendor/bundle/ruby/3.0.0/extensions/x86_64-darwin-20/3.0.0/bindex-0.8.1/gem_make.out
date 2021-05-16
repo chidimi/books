@@ -1,0 +1,15 @@
+current directory: /Users/daichi/study/ruby-study/rails-study/my_web_apps/books_app/vendor/bundle/ruby/3.0.0/gems/bindex-0.8.1/ext/skiptrace
+/Users/daichi/.rbenv/versions/3.0.0/bin/ruby -I /Users/daichi/.rbenv/versions/3.0.0/lib/ruby/3.0.0 -r ./siteconf20210507-26153-nnrm1e.rb extconf.rb
+creating Makefile
+
+current directory: /Users/daichi/study/ruby-study/rails-study/my_web_apps/books_app/vendor/bundle/ruby/3.0.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" clean
+
+current directory: /Users/daichi/study/ruby-study/rails-study/my_web_apps/books_app/vendor/bundle/ruby/3.0.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR="
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.bundle
+
+current directory: /Users/daichi/study/ruby-study/rails-study/my_web_apps/books_app/vendor/bundle/ruby/3.0.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20210507-26153-bp70k7/skiptrace/internal

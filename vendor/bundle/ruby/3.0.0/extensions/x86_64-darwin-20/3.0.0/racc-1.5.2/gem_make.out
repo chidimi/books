@@ -1,0 +1,16 @@
+current directory: /Users/daichi/study/ruby-study/rails-study/my_web_apps/books_app/vendor/bundle/ruby/3.0.0/gems/racc-1.5.2/ext/racc/cparse
+/Users/daichi/.rbenv/versions/3.0.0/bin/ruby -I /Users/daichi/.rbenv/versions/3.0.0/lib/ruby/3.0.0 -r ./siteconf20210507-26153-jxa0nk.rb extconf.rb
+checking for rb_ary_subseq()... yes
+creating Makefile
+
+current directory: /Users/daichi/study/ruby-study/rails-study/my_web_apps/books_app/vendor/bundle/ruby/3.0.0/gems/racc-1.5.2/ext/racc/cparse
+make "DESTDIR=" clean
+
+current directory: /Users/daichi/study/ruby-study/rails-study/my_web_apps/books_app/vendor/bundle/ruby/3.0.0/gems/racc-1.5.2/ext/racc/cparse
+make "DESTDIR="
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+
+current directory: /Users/daichi/study/ruby-study/rails-study/my_web_apps/books_app/vendor/bundle/ruby/3.0.0/gems/racc-1.5.2/ext/racc/cparse
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cparse.bundle ./.gem.20210507-26153-h7hzp6/racc
